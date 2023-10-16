@@ -1,0 +1,15 @@
+Metadata for:ua_day_ACCESS-CM2_historical_r1i1p1f1_gn
+The following datasets are used for this plot:
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19500101-19541231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19550101-19591231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19600101-19641231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19650101-19691231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19700101-19741231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19750101-19791231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19800101-19841231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19850101-19891231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19900101-19941231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_19950101-19991231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_20000101-20041231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_20050101-20091231.nc
+/badc/cmip6/data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/day/ua/gn/latest/ua_day_ACCESS-CM2_historical_r1i1p1f1_gn_20100101-20141231.nc

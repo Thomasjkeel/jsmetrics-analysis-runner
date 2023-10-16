@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --partition=high-mem 
+#SBATCH --job-name=runCMIP6_npac_historical
+#SBATCH -o %j.out
+#SBATCH -e %j.err
+#SBATCH --mem=120000
+#SBATCH --time=980:00
+
+module load jaspy
+
+# excutable
+python run_cmip_Historical_npac.py
