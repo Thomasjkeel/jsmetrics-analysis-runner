@@ -5,7 +5,7 @@
 This code details an analysis runner for data on the JASMIN supercomputer. It runs jet latitude statistics using the _jsmetrics_ Python package.
 
 ### How to run analysis-runner:
-Open up a terminal and run:
+Open up a bash terminal on JASMIN and run:
 ```
 python run_cmip_Historical_npac.py
 ```
